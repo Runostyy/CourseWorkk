@@ -1,0 +1,5 @@
+1001;Galaxy S23;Samsung;8192;45000;True;Android;8
+1002;3310;Nokia;32;2500;False
+1003;iPhone 14;Apple;6144;42000;True;iOS;6
+1004;C25;Realme;4096;18000;True;Android;4
+1005;1100;Nokia;16;1500;False
